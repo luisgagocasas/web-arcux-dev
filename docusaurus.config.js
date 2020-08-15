@@ -10,7 +10,7 @@
 module.exports = {
   title: 'Arcux Dev talks',
   tagline: 'Contenido del sitio web',
-  url: 'https://arcux-test-1.surge.sh',
+  url: 'https://luisgagocasas.github.io/web-arcux-dev/build/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
